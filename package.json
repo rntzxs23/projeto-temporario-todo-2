@@ -1,7 +1,13 @@
 {
   "name": "projeto-temporario-todo-2",
   "description": "A temporary project for Todo App",
-  "keywords": ["expo", "react-native", "todo", "etec", "mtec"],
+  "keywords": [
+    "expo",
+    "react-native",
+    "todo",
+    "etec",
+    "mtec"
+  ],
   "author": "Graziani Zanfolin La Piramide Contabilidade",
   "version": "1.0.0",
   "main": "index.js",
@@ -12,10 +18,10 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~52.0.46",
-    "expo-status-bar": "~2.0.1",
-    "react": "18.3.1",
-    "react-native": "0.76.9"
+    "expo": "^53.0.9",
+    "expo-status-bar": "~2.2.3",
+    "react": "19.0.0",
+    "react-native": "0.79.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
